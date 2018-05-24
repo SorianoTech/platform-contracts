@@ -5,3 +5,5 @@ The backbone of EthicHub ethical crowdlending platform
 
 
 :warning: This repo is under development :warning:
+
+# Editado por Sergio Soriano
